@@ -73,3 +73,68 @@ p{
     font-weight: 500;
 }
 
+
+.abt{
+    margin-left: 90px;
+    margin-top: 100px;
+    font-size: larger;
+    color: rgb(74, 72, 70);
+}
+
+
+.lg-form{
+   
+        width: 300px;
+        height: 340px;
+        background-color:rgb(23, 15, 15) ;
+        position: absolute;
+        top: 160px;
+       margin-left: 50%;
+        border-radius: 10px;
+        padding: 25px;
+        margin-top: 60px;
+      }
+
+  h3{
+    display: inline-block;
+    font-size: large;
+    margin-left: 40px;
+    color: rgb(255, 47, 0);
+   
+
+  }
+
+input{
+    margin-top: 120px;
+    margin-left: 150px;
+    margin: 7px;
+    padding: 5px;
+    border-radius: 9px;
+}
+
+.lg-button{
+    margin-left: 25%;
+    width: 130px;
+    margin-top: 30px;
+    border-radius: 20px;
+    padding: 5px;
+    background-color:orange;
+    font-size: large;
+    font-weight: 500;
+}
+
+.nav2{
+    background-color: black;
+}
+
+.nav2 a{
+    text-decoration: none;
+    color: white;
+    display: flex;
+   
+   justify-content: end;
+
+}
+
+
+
